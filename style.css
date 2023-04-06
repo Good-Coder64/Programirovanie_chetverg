@@ -216,3 +216,13 @@ header{
 .mob-btn{
     display: none;
 }
+
+#wave{
+    width: 100%
+}
+
+#size{
+    display:inline-block;
+    font-size: 60px;
+    padding: none;
+}
